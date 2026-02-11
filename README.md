@@ -22,8 +22,9 @@ Music Production (FL Studio)
 
 ## Connect
 
-LinkedIn → https://linkedin.com/in/yourprofile  
-Email → your.email@example.com  
+Instagram → https://www.instagram.com/mau.artavia/
+LinkedIn → https://www.linkedin.com/in/mauricio-membre%C3%B1o-artavia/ 
+Email → mauriart11@gmail.com
 
 ---
 
