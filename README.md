@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Mauricio Artavia</h1>
 
-<!--
-**Mauriart/Mauriart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+IT Management Student • Future Tech Founder  
+Costa Rica
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+**Languages**  
+Python · Java · JavaScript · SQL  
+
+**Web**  
+React · Node.js · FastAPI  
+
+**Creative**  
+Music Production (FL Studio)
+
+---
+
+## Connect
+
+LinkedIn → https://linkedin.com/in/yourprofile  
+Email → your.email@example.com  
+
+---
+
+<p align="center">
+“God > Motivation”
+</p>
+
